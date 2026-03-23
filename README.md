@@ -1,3 +1,11 @@
+# RoadMatter
+
+> Math and physics tricks collection
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem. Forked from [`zalo/MathUtilities`](https://github.com/zalo/MathUtilities).
+
+---
+
 MathUtilities
 =====================
 
